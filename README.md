@@ -1,6 +1,6 @@
 # AB Testing
 Facebook recently introduced a new bidding type, average bidding, as alternative to maximum bidding.
-Hence, a client with a private data-set desires to test this brand new bidding type for its own firm.
+Hence, a client with a private dataset desires to test this brand new bidding type for its own firm.
 
 ## Dataset Variables
 ##### Impression – Number of ad views
